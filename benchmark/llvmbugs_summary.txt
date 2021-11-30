@@ -1,7 +1,7 @@
-15920,r181189,-O2,-O3,checkIsPass_wrongcodeOneline
-16041,r181995,-O2,-O3,checkIsPass_zeroandsegmentoneline
-16069,r182209,-O1,-Os,checkIsPass_zeroandsegmentoneline
-16521,r185306,-O2,-O3,checkIsPass_wrongcodeOneline
+15920,r181189,-O2,-O3,checkIsPass_wrongcodeOneline 
+16041,r181995,-O2,-O3,checkIsPass_zeroandsegmentoneline n
+16069,r182209,-O1,-Os,checkIsPass_zeroandsegmentoneline n
+16521,r185306,-O2,-O3,checkIsPass_wrongcodeOneline y
 16552,r185684,-O2,-O3,checkIsPass_wrongcodeOneline
 16605,r186068,-O1,-Os,checkIsPass_wrongcodeOneline
 16729,r187322,-O1,-O3,checkIsPass_onenumberandsegmentoneline
