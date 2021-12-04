@@ -2,8 +2,8 @@
 16041,r181995,-O2,-O3,checkIsPass_zeroandsegmentoneline n
 16069,r182209,-O1,-Os,checkIsPass_zeroandsegmentoneline n
 16521,r185306,-O2,-O3,checkIsPass_wrongcodeOneline crtbegin.o missing
-16552,r185684,-O2,-O3,checkIsPass_wrongcodeOneline
-16605,r186068,-O1,-Os,checkIsPass_wrongcodeOneline
+16552,r185684,-O2,-O3,checkIsPass_wrongcodeOneline worked
+16605,r186068,-O1,-Os,checkIsPass_wrongcodeOneline worked
 16729,r187322,-O1,-O3,checkIsPass_onenumberandsegmentoneline
 17288,r190911,-O2,-O3,checkIsPass_wrongcodeOneline
 17338,r191183,-m32+-O1,-m32+-O0,checkIsPass_wrongcodeOneline
